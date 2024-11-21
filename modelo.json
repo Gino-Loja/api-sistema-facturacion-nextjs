@@ -1,0 +1,38 @@
+{
+  "facturas": {
+    "cliente": {},
+
+    "productos": [
+      {
+        "_id": "648e1da228a382e1f05e6c9d",
+        "codigo": "1111",
+        "nombre": "sdsdsdsd",
+        "estado": true,
+        "precio": 23
+      }
+    ],
+    "vendedor": {},
+    "pago":"efectivo",
+    "estado":false
+  },
+  "clientes": {
+    "_id": "648e65cffe84cc3155d62d6f",
+    "nombres": "gino",
+    "telefono": "231212",
+    "email": "gino@ho",
+    "estado": true,
+    "direccion": "sdlsdks"
+  },
+  "productos": {
+    "_id": "648e1da228a382e1f05e6c9d",
+    "codigo": "1111",
+    "nombre": "sdsdsdsd",
+    "estado": true,
+    "precio": 23
+  },
+  "categorias": {
+    "_id": "648e1da228a382e1f05e6c9d",
+    "nombre": "sdsdsdsd",
+    "descripcion": "queso :)"
+  }
+}
